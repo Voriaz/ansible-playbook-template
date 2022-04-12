@@ -1,0 +1,4 @@
+---
+- hosts: groupname
+  roles:
+    - roleName
