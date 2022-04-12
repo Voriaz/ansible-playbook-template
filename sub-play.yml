@@ -1,4 +1,5 @@
 ---
 - hosts: groupname
+  gather_facts: False
   roles:
     - roleName
